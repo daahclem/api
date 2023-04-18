@@ -1,0 +1,41 @@
+
+.container {
+    width: 100%;
+}
+
+
+
+.logo {
+    margin-left: -110px;
+    width: 200px;
+}
+
+@media (max-width: 992px) {
+      .logo {
+         margin-left: 250px;
+
+        }
+      
+    
+  }
+@media (max-width: 767px) {
+      .logo {
+         margin-left: 165px;
+         width: 100%;
+         max-width: 160px;
+        }
+      
+    
+  }
+@media (max-width: 500px) {
+      .logo {
+         margin-left: 165px;
+         width: 140px;
+        }
+
+  }
+
+
+
+
+    

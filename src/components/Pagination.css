@@ -1,0 +1,31 @@
+.mx-2{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    background: red;
+    padding: 4px;
+    border-radius: 7px;
+}
+.mx-2:hover {
+    background-color: transparent;
+    color: red;
+    border: 2px solid red;
+    
+}
+
+
+.mx-3 {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    background: red;
+    padding: 4px;
+    border-radius: 7px;
+}
+
+.mx-3:hover {
+    background-color: transparent;
+    color: red;
+    border: 2px solid red;
+    
+}

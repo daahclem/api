@@ -1,0 +1,17 @@
+.spanname {
+    font-size: 25px;
+    background: rgb(208, 26, 26);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+
+.imgmarvel {
+    border-radius: 10px;
+    width: 100%;
+}
+
+@media (min-width: 700px) {
+
+}
