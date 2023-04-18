@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76cdf83f.css",
+    "main.js": "/static/js/main.2ac91615.js",
+    "static/js/787.15733d23.chunk.js": "/static/js/787.15733d23.chunk.js",
+    "static/media/Marvel_Logo.png": "/static/media/Marvel_Logo.a1d1c514084bb1b9960a.png",
+    "static/media/marvelfamily.jpg": "/static/media/marvelfamily.30979508f7c5ce127511.jpg",
+    "index.html": "/index.html",
+    "main.76cdf83f.css.map": "/static/css/main.76cdf83f.css.map",
+    "main.2ac91615.js.map": "/static/js/main.2ac91615.js.map",
+    "787.15733d23.chunk.js.map": "/static/js/787.15733d23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cdf83f.css",
+    "static/js/main.2ac91615.js"
+  ]
+}
